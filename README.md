@@ -18,6 +18,7 @@ npx playwright install
 
 ### **Run Tests Directly in the Terminal**
 To execute tests in headed mode (with the browser visible), use the following command:
+
 npm run test
 
 
