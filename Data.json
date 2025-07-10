@@ -1,0 +1,15 @@
+{
+    "url" : "https://demoblaze.com/index.html",
+    "pageTitle" : "STORE",
+    "userName" : "JohnInglis",
+    "password" : "test123@",
+    "productCategory" : "Laptops",
+    "product" : "MacBook air",
+    "country" : "United Kingdom",
+    "cityName" : "London",
+    "creditCardNum" : "1236451937397865",
+    "monthName" : "06",
+    "year" : "2025",
+    "confirmationMsg" : "Thank you for your purchase!",
+    "baseUrl" : "https://reqres.in/api"
+}

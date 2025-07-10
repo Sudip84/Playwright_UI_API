@@ -1,0 +1,24 @@
+{
+  "name": "playwright_ui_api",
+  "version": "1.0.0",
+  "description": "UI and API Automation with Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test" : "npx playwright test --headed",
+    "report" : "npx playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sudip84/Playwright_UI_API.git"
+  },
+  "author": "Sudip Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sudip84/Playwright_UI_API/issues"
+  },
+  "homepage": "https://github.com/Sudip84/Playwright_UI_API#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.2",
+    "@types/node": "^24.0.10"
+  }
+}
